@@ -1,7 +1,9 @@
 # FundiGraph
 FundiGraph is a retinal disease knowledge graph covering 13 categories and 732 types of retinal diseases, including both common and rare ones. 
 
-It covers a total of 12 types of medical entities including Disease, Synonym, Staging and Typing, OCT sign, Symptom, Physical sign, Gene, Differential diagnosis, Complication, Etiology, Related disease and Treatment. 
+It covers a total of 22 types of entities, including Disease, Synonym, Staging and typing, Anatomical location, Examination, Symptom, Physical sign, OCT sign, Gene, Differential diagnosis, Complication, Etiology, Related disease, Treatment (General, Drug, Drug usage, Sugery, Indications and Contraindications), Age of onset, High risk population and Medical history.
+
+It covers a total of 17 types of relations were defined, including Contain, Same as, Classified as, Located in, Requires examination, Has OCT sign, Has symptom, Has physical sign, Related gene, Needs distinguished from, May case, Caused by, Related to, Onset during, Affects population and Related history.
 
 We sincerely invite all medical researchers and medical practitioners to read and use it.
 
